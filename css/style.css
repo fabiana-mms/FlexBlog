@@ -1,0 +1,28 @@
+@import "./reset.css";
+
+/*Superinfo*/
+@import "./superinfo.css";
+
+/*Menu*/
+@import "./menu.css";
+
+/*Introducao*/
+@import "./introducao.css";
+
+/*Sobre*/
+@import "./sobre.css";
+
+/*Produtos*/
+@import "./produtos.css";
+
+/*Preco*/
+@import "./preco.css";
+
+/*Qualidade*/
+@import "./qualidade.css";
+
+/*Newsletter*/
+@import "./newsletter.css";
+
+/*Footer*/
+@import "./footer.css";
